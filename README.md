@@ -15,12 +15,12 @@
 ```javascript
 Interests = ['Artificial inteligence','Apps development', 'Competitive programming', 'entrepreneurship']  
 Programming_languages = ['C/C++', 'Python', 'Javascript']
-Projetos = { 
+Projects = { 
         business = {
             name: 'Hangout App',  
             status: 'In progress 🖥  ',
         },
-        personal = ['Learning competitive programming', 'developing application', 'Making some curious projects'],
+        personal = ['Learning competitive programming', 'developing applications', 'Making some curious projects'],
 }
 ```
 [![Instagram: Hangout.app](https://img.shields.io/badge/hangout.app-%23E4405F.svg?&logo=instagram&logoColor=white&color=rgba(234,%200,%2079,0.6))](https://www.instagram.com/hangout.app/)
