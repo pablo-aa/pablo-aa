@@ -13,7 +13,7 @@
 <h3> Programming world 🌎 </h3>
 
 ```javascript
-Interests = ['Artificial inteligence','Apps development', 'Competitive programming', 'entrepreneurship']  
+Interests = ['Apps development', 'Competitive programming', 'Artificial inteligence', 'entrepreneurship']  
 Programming_languages = ['C/C++', 'Python', 'Javascript']
 Projects = { 
         business = {
@@ -24,4 +24,5 @@ Projects = {
 }
 ```
 [![Instagram: Hangout.app](https://img.shields.io/badge/hangout.app-%23E4405F.svg?&logo=instagram&logoColor=white&color=rgba(234,%200,%2079,0.6))](https://www.instagram.com/hangout.app/)
+[![Github: Pabloarruda](https://img.shields.io/badge/Made%20by-Pablo%20Araujo-%23ea004f)](https://github.com/pablo-aa)
 
