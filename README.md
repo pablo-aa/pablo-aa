@@ -2,10 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200">
 
-[![Linkedin: Pabloarruda](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pabloarruda/)
+[![Portfólio: Pabloarruda](https://img.shields.io/badge/araujopablo.com-%23E4405F.svg?&?style=flat&?color=ea004f)](https://araujopablo.com)
 [![Github: Pablo-aa](https://img.shields.io/github/followers/pablo-aa?style=social)](https://github.com/pablo-aa)
-[![Codeforces: pablo_aaaa](https://cp-logo.vercel.app/codeforces/pablo_aaaa)](https://codeforces.com/profile/pablo_aaaa)
-
 
 <p><em>Studying Computer Engineering <a href="http://www.unb.br">University of Brasilia</a> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg" width="30"></br>
   
@@ -15,21 +13,34 @@
 
 ```javascript
 Interests = ['Apps development', 'Competitive programming', 'Artificial inteligence', 'entrepreneurship']  
-Programming_languages = ['C/C++', 'Python', 'Javascript']
+
+Skills = {
+        Frontend: ['VueJs', 'ReactJs', 'Typescript'],
+        Backend: ['NodeJs', 'Firebase'],
+        Design: ['Figma', 'Gimp'],
+        AI: ['Scikit learn', 'Pandas'],
+        Competitive_programming: ['C++', 'Codeforces'],
+        Languages: ['Javascript', 'Typescript', 'C', 'C++', 'Python'],
+}
 Projects = { 
-        Cosseno = {
+        Cosseno: {
             type: 'Web App',
             description: 'The high-level student platform',
             status: 'Beta Version 🖥 ',
         },
-        ReUnB = {
-            type: 'Mobile App',
-            description: 'Social project to improve the university structure and strengthen student relationships.',
-            status: 'In progress 🚀 ',
-        },
-        personal = ['Learning competitive programming', 'developing applications', 'Making some curious projects'],
+        Personal: ['Learning competitive programming', 'developing applications', 'Making some curious projects'],
 }
 ```
-[![Instagram: cosenooficial](https://img.shields.io/badge/cosseno.com-%23E4405F.svg?&logo=instagram&logoColor=white&color=3368b8)](https://www.instagram.com/cossenooficial/)
-[![Github: Pabloarruda](https://img.shields.io/badge/Made%20by-Pablo%20Araujo-%23ea004f)](https://github.com/pablo-aa)
+<h4> 🚀 Cosseno </h4>
+
+[![Site: cosseno.com](https://img.shields.io/badge/cosseno.com-%23E4405F.svg?logo=source&logoColor=white&color=3368b8)](https://cosseno.com)
+[![Instagram: cosenooficial](https://img.shields.io/badge/cosseno-%23E4405F.svg?&logo=instagram&logoColor=white&color=3368b8)](https://www.instagram.com/cossenooficial/)
+[![Youtube: cosenooficial](https://img.shields.io/badge/cosseno-%23E4405F.svg?&logo=youtube&logoColor=white&color=3368b8)](https://www.youtube.com/c/Cosseno)
+
+<h4> 👋 Get in touch </h4>
+
+[![Linkedin: Pabloarruda](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pabloarruda/)
+[![Gmail: pablo-aa](https://img.shields.io/badge/-Gmail-%23334?style=flat&logo=gmail&logoColor=white)](mailto:pabloarruda.araujo@gmail.com)
+[![Codeforces: pablo_aaaa](https://cp-logo.vercel.app/codeforces/pablo_aaaa)](https://codeforces.com/profile/pablo_aaaa)
+[![Github: Pabloarruda](https://img.shields.io/badge/Made%20by-Pablo%20Araujo-%23ea004f?style=flat)](https://github.com/pablo-aa)
 
