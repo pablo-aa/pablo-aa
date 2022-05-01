@@ -25,8 +25,8 @@ Skills = {
 Projects = { 
         Cosseno: {
             type: 'Web App',
-            description: 'The high-level student platform',
-            status: 'Beta Version 🖥 ',
+            description: 'The oficial student platform',
+            status: 'released 🚀',
         },
         Personal: ['Learning competitive programming', 'developing applications', 'Making some curious projects'],
 }
