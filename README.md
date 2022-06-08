@@ -1,21 +1,26 @@
-<h2> Hey! I'm Pablo Araujo 👨🏽‍💻</h2>
+![pablo-identity-github](https://user-images.githubusercontent.com/52786655/172734418-b348a5ae-148e-4b58-b168-21c867831160.png)
 
-<img align='right' src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200">
+<!-- <h2> Hey! I'm Pablo Araujo 👨🏽‍💻</h2> -->
+
+<!-- <img align='right' src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200"> -->
 
 [![Portfólio: Pabloarruda](https://img.shields.io/badge/araujopablo.com-%23E4405F.svg?&?style=flat&?color=ea004f)](https://araujopablo.com)
 [![Github: Pablo-aa](https://img.shields.io/github/followers/pablo-aa?style=social)](https://github.com/pablo-aa)
 
+<h3>Attention 🚨</h3>
+As you've already seen, my name is Pablo Araujo and I'm a developer. Welcome to my Github, please feel free to get in touch with me 👋
+<!-- 
 <p><em>Studying Computer Engineering <a href="http://www.unb.br">University of Brasilia</a> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg" width="30"></br>
   
-<p><em>Working in some programming challenges  <img src="https://media.giphy.com/media/kk2IOtI2XfUzK/giphy.gif" align="center" width="40"></br>
+<p><em>Working in some programming challenges  <img src="https://media.giphy.com/media/kk2IOtI2XfUzK/giphy.gif" align="center" width="40"></br> -->
   
 <h3> Programming world 🌎 </h3>
 
 ```javascript
-Interests = ['Apps development', 'Competitive programming', 'Artificial inteligence', 'entrepreneurship']  
+Interests = ['Web/app development', 'Competitive programming', 'Artificial inteligence', 'Entrepreneurship']  
 
 Skills = {
-        Frontend: ['VueJs', 'ReactJs', 'Typescript'],
+        Frontend: ['VueJs', 'ReactJs', 'Typescript', 'React Native'],
         Backend: ['NodeJs', 'Firebase'],
         Design: ['Figma', 'Gimp'],
         AI: ['Scikit learn', 'Pandas'],
