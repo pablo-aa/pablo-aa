@@ -46,6 +46,6 @@ Projects = {
 
 [![Linkedin: Pabloarruda](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pabloarruda/)
 [![Gmail: pablo-aa](https://img.shields.io/badge/-Gmail-%23334?style=flat&logo=gmail&logoColor=white)](mailto:pabloarruda.araujo@gmail.com)
-[![Codeforces: pablo_aaaa](https://img.shields.io/badge/codeforces-1460-%2303a89e)](https://codeforces.com/profile/pablo_aaaa)
+[![Codeforces: pablo_aaaa](https://img.shields.io/badge/codeforces-1574-%2303a89e)](https://codeforces.com/profile/pablo_aaaa)
 [![Github: Pabloarruda](https://img.shields.io/badge/Made%20by-Pablo%20Araujo-%23ea004f?style=flat)](https://github.com/pablo-aa)
 
